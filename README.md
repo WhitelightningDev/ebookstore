@@ -13,7 +13,7 @@ Ebookstore Management System is a Java application that allows users to manage b
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/ebookstore.git
+    git clone https://github.com/WhitelightningDev/ebookstore.git
     cd ebookstore
     ```
 
